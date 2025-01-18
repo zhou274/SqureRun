@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0503109b10f1d8640a80be1c746c06be
+timeCreated: 1536365714
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Straight & Narrow
+  fontNames:
+  - Straight & Narrow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
